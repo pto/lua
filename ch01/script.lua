@@ -1,3 +1,5 @@
+#!/usr/bin/env lua
+
 print(arg[-3])
 print(arg[-2])
 print(arg[-1])
